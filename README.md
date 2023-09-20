@@ -1,8 +1,6 @@
 # TicTacToe With Svelte SvelteKit
 
-## Running a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+## Running the project
 
 ```bash
 # clone the project
